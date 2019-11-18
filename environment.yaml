@@ -6,3 +6,5 @@ dependencies:
   - numpy
   - pandas
   - scikit-learn
+  - pip:
+      - https://github.com/tryolabs/cocoapi.git#subdirectory=PythonAPI
