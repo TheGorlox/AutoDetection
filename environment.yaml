@@ -1,4 +1,8 @@
-pip:
-  - sklean
+name: audo
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
   - numpy
   - pandas
+  - scikit-learn
